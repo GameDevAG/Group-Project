@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Ragiv_Scene.unity
+=======
+- path: Assets/Scenes/Siddharth.unity
+>>>>>>> f1bcfcbb7c3d106493783bffd852da527ddac4ff
   isLoaded: 1
   isActive: 1
   isSubScene: 0

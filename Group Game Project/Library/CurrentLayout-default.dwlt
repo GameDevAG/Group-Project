@@ -95,8 +95,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1920
     height: 997
+=======
+    width: 1536
+    height: 821
+>>>>>>> f1bcfcbb7c3d106493783bffd852da527ddac4ff
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
@@ -393,7 +398,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 483e0000
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 0eeeffff
+=======
+      m_ExpandedIDs: def9ffffecf9fffffaf9ffff3efbffff
+>>>>>>> f1bcfcbb7c3d106493783bffd852da527ddac4ff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -500,14 +509,24 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 16
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\asus\Documents\GitHub\Group-Project\Group Game Project
+=======
+  m_LastProjectPath: C:\Users\R A Ashwin\Documents\Group-Project\Group Game Project
+>>>>>>> f1bcfcbb7c3d106493783bffd852da527ddac4ff
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 483e0000
     m_LastClickedID: 15944
     m_ExpandedIDs: 00000000423e000000ca9a3b
+=======
+    m_SelectedIDs: a6330000
+    m_LastClickedID: 13222
+    m_ExpandedIDs: 00000000a033000000ca9a3b
+>>>>>>> f1bcfcbb7c3d106493783bffd852da527ddac4ff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -535,7 +554,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000423e0000
+=======
+    m_ExpandedIDs: 00000000a0330000
+>>>>>>> f1bcfcbb7c3d106493783bffd852da527ddac4ff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,18 +589,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 8a3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Siddharth
+      m_OriginalName: Siddharth
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 13600
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
@@ -617,10 +640,8 @@ MonoBehaviour:
     width: 1173
     height: 446
   m_ViewDataDictionary: {fileID: 0}
-  m_SerializedViewNames: []
-  m_SerializedViewValues: []
-  m_SerializedCustomFieldsNames: []
-  m_SerializedCustomFieldsValues: []
+  m_SerializedViewsNames: []
+  m_SerializedViewsValues: []
   m_PlayModeViewName: GameView
   m_ShowGizmos: 0
   m_TargetDisplay: 0
@@ -786,7 +807,7 @@ MonoBehaviour:
     m_EasingEnabled: 1
     m_EasingDuration: 0.4
     m_AccelerationEnabled: 1
-    m_FieldOfViewHorizontalOrVertical: 60
+    m_FieldOfView: 90
     m_NearClip: 0.03
     m_FarClip: 10000
     m_DynamicClip: 1
